@@ -1,6 +1,6 @@
 # TARTRL-docs
 
-[![Documentation Status](https://readthedocs.org/projects/tartrl-docs/badge/?version=latest)](https://tartrl-docs.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/tartrl-docs/badge/?version=latest)](https://tartrl-docs.readthedocs.io/zh/latest/?badge=latest)
 
 [中文文档](https://tartrl-docs.readthedocs.io/zh/latest/index.html) | 
 [English Docs](https://tartrl-docs.readthedocs.io/en/latest/index.html) 
