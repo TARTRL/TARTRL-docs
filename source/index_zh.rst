@@ -15,4 +15,4 @@
    :maxdepth: 2
    :caption: 用户指南
 
-   00_intro/index_cn
+   00_intro/index_zh
