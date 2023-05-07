@@ -6,3 +6,4 @@ sphinx-toolbox
 plantumlcli>=0.0.2
 sphinx-autobuild
 -e git+https://gitee.com/huangshiyu/pytorch_sphinx_theme.git#egg=pytorch_sphinx_theme
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
